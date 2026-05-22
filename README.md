@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28138511/README.md)
 # Лабораторная работа №2
 ### Мальгин Дмитрий 6313
 ### Файлы:
