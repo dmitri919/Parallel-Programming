@@ -1,0 +1,7 @@
+=== MPI Matrix Multiplication ===
+Matrix size: 2000×2000
+MPI processes: 2
+Execution time: 6317.2839 ms
+Computational volume: 16000000000 FLOPs
+Performance: 2.53 GFLOPS
+Result saved to: result.txt
